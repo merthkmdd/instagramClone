@@ -1,2 +1,3 @@
-#BootStrap ile instagram clone page denemem.
-![Uploading Ekran Resmi 2023-11-12 23.11.14.png…]()
+## BootStrap ile instagram clone page denemem.
+
+![resim adı](https://i.hizliresim.com/6tjjm3x.png)	
